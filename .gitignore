@@ -1,0 +1,6 @@
+DATA-558-Azure-Key.pem
+Exams/*
+Project/*
+Textbooks/*
+*.pyc
+*/.ipynb_checkpoints/*
